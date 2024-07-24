@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+Basic dictionary
+"""
 BaseCaching = __import__('base_caching').BaseCaching
 
 
